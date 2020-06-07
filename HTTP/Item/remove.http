@@ -1,0 +1,5 @@
+DELETE http://localhost:8087/item/1
+Content-Type: application/json
+
+
+###

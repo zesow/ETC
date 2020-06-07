@@ -1,0 +1,9 @@
+POST http://localhost:59616/CartItem
+Content-Type: application/json
+
+{
+  "name": "applepencil",
+  "price": "123454"
+}
+
+###

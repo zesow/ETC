@@ -1,0 +1,11 @@
+POST http://localhost:8087/item/
+Content-Type: application/json
+
+{
+  "name": "galaxy",
+  "buyingPrice": 20000,
+  "price": 15000,
+  "sellerId": "1"
+}
+
+###

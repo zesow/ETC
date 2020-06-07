@@ -1,0 +1,30 @@
+POST http://localhost:/CartItem
+Content-Type: application/json
+
+//{
+//  "id": "123456",
+//  "items": [
+//    {
+//      "id": "123",
+//      "name": "456",
+//      "price": "100"
+//    }
+//  ]
+//}
+
+{
+  "id": "123457",
+  "items": [
+    {
+      "product" : {
+        "name" : "KIM",
+        "price" : 200
+      },
+      "quantity" : 3,
+      "name": "456",
+      "price": "100"
+    }
+  ]
+}
+
+###
